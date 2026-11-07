@@ -1,0 +1,11 @@
+{
+  "org": "locustio",
+  "repo": "aiolocust",
+  "versions": [
+    {
+      "commit": "9b5eb4721c2a496ae7715e19fa95064a2510302b",
+      "tag": "",
+      "parsed_at": "2026-11-07T08:09:05.189355+00:00"
+    }
+  ]
+}
