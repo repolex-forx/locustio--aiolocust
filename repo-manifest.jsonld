@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/locustio/aiolocust/commit/9b5eb4721c2a496ae7715e19fa95064a2510302b",
       "git:hexsha": "9b5eb4721c2a496ae7715e19fa95064a2510302b",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-07T08:09:05.076015+00:00"
     },
     {
       "@id": "https://repolex.ai/r/locustio/aiolocust/commit/2515987261ab831c07031243c0f958586bf3a2c1",
